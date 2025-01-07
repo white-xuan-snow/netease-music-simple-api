@@ -1,0 +1,4 @@
+com\zankeu\netease\spider\config\NeteaseSpiderAutoConfiguration.class
+com\zankeu\netease\spider\constant\PathConstant.class
+com\zankeu\netease\spider\pojo\TestPojo.class
+com\zankeu\netease\spider\constant\UrlConstant.class
